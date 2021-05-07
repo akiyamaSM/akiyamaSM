@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**akiyamaSM/akiyamaSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=akiyamaSM)
 
 Here are some ideas to get you started:
 
