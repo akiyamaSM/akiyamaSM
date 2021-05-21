@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=akiyamaSM)
+![](https://komarev.com/ghpvc/?username=akiyamaSM) since 7 May, 2021
 
 Here are some ideas to get you started:
 
